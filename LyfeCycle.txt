@@ -1,5 +1,13 @@
 Software Development Life Cycle
 
 Stage
+Planning
+
+Analysis
+
+Design
+
+Development
 
 Methodologies
+
